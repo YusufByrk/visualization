@@ -1,0 +1,8 @@
+animation_image/
+animation_ubung/
+.vscode/ 
+.idea/ 
+# Log dosyaları 
+*.log 
+# Gizli sistem dosyaları 
+.DS_Store Thumbs.db 
